@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>livereload</title>
+	<style type="text/css">
+	body{
+		padding: 0;
+		margin:0;
+	}
+	</style>
+</head>
+<body>adskljlkasd
+asd
+<button>asdjlk</button>
+<div view></div>
+<script src="../build/route.js"></script>
+<script>
+	route
+	.state('app',{
+		url:'/a',
+		templateUrl:'app.html'
+	})
+	.state('user',{
+		url:'/u',
+		templateUrl:'user.html'
+	})
+	.state('photo',{
+		url:'/p',
+		templateUrl:'photo.html'
+	})
+	.otherwise('/a/u/p');
+</script>
+</body>
+</html>

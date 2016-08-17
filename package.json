@@ -1,0 +1,23 @@
+{
+  "name": "xim",
+  "version": "1.0.0",
+  "description": "一个自制的前端路由库",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiekun1992/xim.git"
+  },
+  "keywords": [
+    "frontend",
+    "route"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiekun1992/xim/issues"
+  },
+  "homepage": "https://github.com/xiekun1992/xim#readme"
+}
