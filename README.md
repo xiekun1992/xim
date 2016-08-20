@@ -2,4 +2,4 @@
 
 a small frontend route library 
 
-<img src="https://xiekun1992.github.io">
+<img src="http://xiekun1992.github.io/asset/xim.route/xim.route.gif>
